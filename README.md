@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Authencate users on your React App with Frontegg
+
+![Photo by Lautaro Andreani on Unsplash](https://user-images.githubusercontent.com/51290447/147384735-a58de139-0c0e-4301-9ad8-887e78196151.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
