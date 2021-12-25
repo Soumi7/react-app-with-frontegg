@@ -1,4 +1,4 @@
-# Authencate users on your React App with Frontegg
+# Authenticate users on your React App with Frontegg
 
 ![Photo by Lautaro Andreani on Unsplash](https://user-images.githubusercontent.com/51290447/147384735-a58de139-0c0e-4301-9ad8-887e78196151.png)
 
